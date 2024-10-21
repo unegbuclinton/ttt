@@ -1,14 +1,14 @@
 import React from 'react'
-import Navabr from './nav/Navabr'
+import Navabr from '../nav/Navabr'
 import Image from 'next/image'
 import termImg from '@/assets/img/term-img.png'
 import userImg from '@/assets/img/user.png'
-import DateInfo from './date-info/DateInfo'
-import UserInfo from './user-info/UserInfo'
+import DateInfo from '../date-info/DateInfo'
+import UserInfo from '../user-info/UserInfo'
 import clip from '@/assets/img/clip.png'
-import Button from './button/Button'
-import Footer from './footer/Footer'
-import News from './news/News'
+import Button from '../button/Button'
+import Footer from '../footer/Footer'
+import News from '../news/News'
 
 const Blog = () => {
   return (
